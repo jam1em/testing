@@ -1,0 +1,51 @@
+body {
+	background: #ccffff;
+}
+
+h1, h2, h3{
+	color: #730099;
+	font-family: arial;
+	letter-spacing: 3px;
+	font-weight: bold;
+}
+ li, a{
+	color: #cc0099;
+	font-family: serif;
+	letter-spacing: 1px;
+	font-weight: bold;
+}
+p{
+	color: #000000;
+	font-family: arial;
+	letter-spacing: 1px;
+	background: #00e6e6;
+	padding: 10px 10px 10px 10px;  	
+}
+ a:link{
+  color:blue;
+}
+
+a:hover{
+  color:yellow;
+}
+
+a:active{
+  color:orange;
+}
+
+a:visited{
+  color:black;
+}
+
+a:focus{
+  color:green;
+}
+
+img{
+	width: 100px;
+}
+
+
+.custom{
+   cursor: url(../image/monkey.png), auto;
+}
